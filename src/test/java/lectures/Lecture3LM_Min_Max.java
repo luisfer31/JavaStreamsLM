@@ -8,7 +8,7 @@ import java.util.Comparator;
 import java.util.List;
 import static org.hamcrest.MatcherAssert.assertThat;
 
-public class Lecture3LM {
+public class Lecture3LM_Min_Max {
 
     @Test
     public void min() throws Exception {

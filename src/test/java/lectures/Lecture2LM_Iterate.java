@@ -7,7 +7,7 @@ import org.junit.Test;
 import java.util.List;
 import java.util.stream.IntStream;
 
-public class Lecture2LM {
+public class Lecture2LM_Iterate {
     @Test
     public void range() throws Exception {
 //        for (int i = 0; i < 10; i++) {

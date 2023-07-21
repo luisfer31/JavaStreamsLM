@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-public class Lecture4LM {
+public class Lecture4LM_Distinct {
 
   @Test
   public void distinct() throws Exception {
